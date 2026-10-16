@@ -17,6 +17,7 @@ The resulting insights inform data-backed marketing strategies aimed at converti
 ## 📊 Summary of Data & Methodology
 
 ### 1. Data Cleaning & Preparation (Google Sheets)
+* 📊 **Data Cleaning & Pivot Tables:** [View Working Google Sheet]https://docs.google.com/spreadsheets/d/1Qyed-RMXLORkrnz7Jm55q-klVujduZop19rgp-OZHSc/edit?usp=sharing
 * **Dataset:** Divvy/Cyclistic historical trip dataset containing **426,887 records**.
 * **Calculated Fields Created:**
   * `ride_length`: Extracted trip durations (`ended_at - started_at`).
