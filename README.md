@@ -1,5 +1,4 @@
-# 🚲 Cyclistic Bike-Share Case Study
-> **Google Data Analytics Professional Certificate Capstone Project**  
+# 🚲 Cyclistic Bike-Share Case Study 
 > **Author:** Joachim Armookyi Kwofie  
 > **Tools Used:** Google Sheets, Tableau Public, Git/GitHub  
 
